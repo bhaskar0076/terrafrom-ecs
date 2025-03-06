@@ -1,0 +1,4 @@
+# Terraform directories
+.terraform/
+.terraform*
+terraform.*
